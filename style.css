@@ -15,7 +15,7 @@ body{
 .logo{
     width: 100%;
     float: left;
-    background: yellow;
+    background: yellow;/*borrar*/
 }
 
 .left{
@@ -23,7 +23,7 @@ body{
     width: 70%;
     height: 70%;
     border-radius: 24px;
-    background: orange;
+    background: orange;/*borrar*/
 }
 
 .rigth{
@@ -31,7 +31,7 @@ body{
     width: 30%;
     height: auto;
     border-radius: 24px;
-    background: green;
+    background: green;/*poner white*/
 }
 
 .left-buttom{
@@ -39,7 +39,7 @@ body{
     width: 70%;
     height: auto;
     border-radius: 24px;
-    background: red;
+    background: red;/*borrar*/
 }
 
 .logo-png{
@@ -104,4 +104,15 @@ body{
     border-radius: 24px;
     margin-left: 10%;
     background: #d8dfe8;
+}
+
+#btn-copiar{
+    margin-left: 33%;
+    margin-top: 99%;
+    padding: 24px;
+    width: 40%;
+    height: 10%;
+    background: #d8dfe8;
+    border-radius: 24px;
+    display: none;
 }
